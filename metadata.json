@@ -1,0 +1,6 @@
+{
+  "name": "RoadPulse - Live On-Road Vehicle & Mobility Network",
+  "description": "Real-time discovery, radar tracking, and instant hailing of available on-road taxis, rideshares, shuttles, and 24/7 roadside assistance vehicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
